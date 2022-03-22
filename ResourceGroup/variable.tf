@@ -1,5 +1,5 @@
 variable "Resource" {
   type = string
-  default = "MY-RG"
+  default = "MY-RG1"
 
 }
